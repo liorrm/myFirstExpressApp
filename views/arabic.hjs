@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{{ title }}</title>
+    <title>Poops!</title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
   </head>
   <body>
-    <h1>{{ alphabet }}</h1>
-    <p>Welcome to {{ arabicAlpha }}, <br> {{ student }}</p>
+    <h1>Arabic alphabet</h1>
+    <p>{{ arabic }}</p>
   </body>
 </html>
