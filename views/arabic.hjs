@@ -6,6 +6,6 @@
   </head>
   <body>
     <h1>{{ alphabet }}</h1>
-    <p>Welcome to {{ alphabet }}, <br> {{ student }}</p>
+    <p>Welcome to {{ arabicAlpha }}, <br> {{ student }}</p>
   </body>
 </html>
